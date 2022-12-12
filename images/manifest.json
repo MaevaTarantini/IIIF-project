@@ -7,6 +7,120 @@
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
     "width" : 4032,
+    "id" : "https://MaevaTarantini.github.io/IIIF-project/images/IMG_3465Copie/canvas/",
+    "label" : {
+      "none" : [ "IMG_3465Copie" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://MaevaTarantini.github.io/IIIF-project/images/IMG_3465Copie/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://MaevaTarantini.github.io/IIIF-project/images/IMG_3465Copie/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 126,
+              "height" : 95
+            }, {
+              "width" : 252,
+              "height" : 189
+            }, {
+              "width" : 504,
+              "height" : 378
+            }, {
+              "width" : 1008,
+              "height" : 756
+            }, {
+              "width" : 2016,
+              "height" : 1512
+            }, {
+              "width" : 4032,
+              "height" : 3024
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 4032,
+            "@id" : "https://MaevaTarantini.github.io/IIIF-project/images/IMG_3465Copie",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 3024
+          } ],
+          "format" : "image/jpeg",
+          "width" : 4032,
+          "id" : "https://MaevaTarantini.github.io/IIIF-project/images/IMG_3465Copie/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 3024
+        },
+        "target" : "https://MaevaTarantini.github.io/IIIF-project/images/IMG_3465Copie/canvas/"
+      } ]
+    } ],
+    "height" : 3024
+  }, {
+    "width" : 4032,
+    "id" : "https://MaevaTarantini.github.io/IIIF-project/images/IMG_3467Copie/canvas/",
+    "label" : {
+      "none" : [ "IMG_3467Copie" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://MaevaTarantini.github.io/IIIF-project/images/IMG_3467Copie/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://MaevaTarantini.github.io/IIIF-project/images/IMG_3467Copie/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 126,
+              "height" : 95
+            }, {
+              "width" : 252,
+              "height" : 189
+            }, {
+              "width" : 504,
+              "height" : 378
+            }, {
+              "width" : 1008,
+              "height" : 756
+            }, {
+              "width" : 2016,
+              "height" : 1512
+            }, {
+              "width" : 4032,
+              "height" : 3024
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 4032,
+            "@id" : "https://MaevaTarantini.github.io/IIIF-project/images/IMG_3467Copie",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 3024
+          } ],
+          "format" : "image/jpeg",
+          "width" : 4032,
+          "id" : "https://MaevaTarantini.github.io/IIIF-project/images/IMG_3467Copie/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 3024
+        },
+        "target" : "https://MaevaTarantini.github.io/IIIF-project/images/IMG_3467Copie/canvas/"
+      } ]
+    } ],
+    "height" : 3024
+  }, {
+    "width" : 4032,
     "id" : "https://MaevaTarantini.github.io/IIIF-project/images/IMG_3466/canvas/",
     "label" : {
       "none" : [ "IMG_3466" ]
