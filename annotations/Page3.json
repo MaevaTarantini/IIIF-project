@@ -1,0 +1,281 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "lien conjugal",
+      "@type" : "oa:Tag",
+      "chars" : "lien conjugal"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "noblesse française",
+      "@type" : "oa:Tag",
+      "chars" : "noblesse française"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Ces marques d'affection sont &eacute;galement un moyen d'entretenir le lien conjugal, puisqu'ils sont fr&eacute;quemment s&eacute;par&eacute;s depuis le d&eacute;but de leur rencontre et donc, de leur mariage.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Ces marques d'affection sont &eacute;galement un moyen d'entretenir le lien conjugal, puisqu'ils sont fr&eacute;quemment s&eacute;par&eacute;s depuis le d&eacute;but de leur rencontre et donc, de leur mariage.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/93314497",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-12-28T14:21:50",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1672237308868",
+    "dcterms:modified" : "2022-12-28T14:21:50",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MaevaTarantini.github.io/IIIF-project/manifests/correspondance.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2174,65,122,1828"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2174.39938,1893.70047h60.75663v0h60.75663v-914.21997v-914.21997h-60.75663h-60.75663v914.21997z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_a92136ef-e0de-4486-9aae-9ed37ab361b0\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://005785d7-da56-4874-a5c9-4e103ceef062"
+    }, {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MaevaTarantini.github.io/IIIF-project/manifests/correspondance.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2395,2154,109,702"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2394.55538,2856.09672h54.46646v0h54.46646v-351.24961v-351.24961h-54.46646h-54.46646v351.24961z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_d8bb208e-7c57-44b6-8920-b178485ee0e4\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://005785d7-da56-4874-a5c9-4e103ceef062"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "contrainte",
+      "@type" : "oa:Tag",
+      "chars" : "contrainte"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "noblesse française",
+      "@type" : "oa:Tag",
+      "chars" : "noblesse française"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "chasse",
+      "@type" : "oa:Tag",
+      "chars" : "chasse"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Il s'agit une nouvelle fois d'une marque de contrainte indiqu&eacute;e par la formulation \"maudite chasse\" qui se r&eacute;p&egrave;te dans chaque partie de la correspondance. Le comte a h&eacute;rit&eacute; de cette charge de son p&egrave;re, mais contrairement &agrave; lui, il ne semble jamais appr&eacute;cier cette activit&eacute;, bien que le prestige d'&ecirc;tre aupr&egrave;s du roi soit envi&eacute; par beaucoup d'individus.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Il s'agit une nouvelle fois d'une marque de contrainte indiqu&eacute;e par la formulation \"maudite chasse\" qui se r&eacute;p&egrave;te dans chaque partie de la correspondance. Le comte a h&eacute;rit&eacute; de cette charge de son p&egrave;re, mais contrairement &agrave; lui, il ne semble jamais appr&eacute;cier cette activit&eacute;, bien que le prestige d'&ecirc;tre aupr&egrave;s du roi soit envi&eacute; par beaucoup d'individus.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/93314497",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-12-28T14:17:14",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1672237034006",
+    "dcterms:modified" : "2022-12-28T14:17:14",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MaevaTarantini.github.io/IIIF-project/manifests/correspondance.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1401,191,128,1671"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1400.70827,1862.24961h63.90172v0h63.90172v-835.59282v-835.59282h-63.90172h-63.90172v835.59282z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_60b119eb-94f3-46a2-bf49-22a182048735\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://005785d7-da56-4874-a5c9-4e103ceef062"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "contrainte",
+      "@type" : "oa:Tag",
+      "chars" : "contrainte"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "chasse",
+      "@type" : "oa:Tag",
+      "chars" : "chasse"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "charge",
+      "@type" : "oa:Tag",
+      "chars" : "charge"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "haras du roi",
+      "@type" : "oa:Tag",
+      "chars" : "haras du roi"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Le comte annonce la raison qui a pu retarder l'&eacute;criture de sa lettre : la contrainte de la chasse (tire &agrave; l'hirondelle) qui l'a retenu et l'a emp&ecirc;ch&eacute; de souper &agrave; son heure habituelle. La contrainte est &eacute;galement une contrainte horaire qui lui est impos&eacute;e.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Le comte annonce la raison qui a pu retarder l'&eacute;criture de sa lettre : la contrainte de la chasse (tire &agrave; l'hirondelle) qui l'a retenu et l'a emp&ecirc;ch&eacute; de souper &agrave; son heure habituelle. La contrainte est &eacute;galement une contrainte horaire qui lui est impos&eacute;e.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/93314497",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-12-28T14:23:56",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1672237436092",
+    "dcterms:modified" : "2022-12-28T14:23:56",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MaevaTarantini.github.io/IIIF-project/manifests/correspondance.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2785,109,140,1589"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2784.54602,1698.70515h70.19189v0h70.19189v-794.70671v-794.70671h-70.19189h-70.19189v794.70671z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_21652ccc-0e53-4a11-b147-59399a4ffa8a\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://005785d7-da56-4874-a5c9-4e103ceef062"
+    }, {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MaevaTarantini.github.io/IIIF-project/manifests/correspondance.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2967,141,172,2722"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2966.961,2862.3869h85.91732v0h85.91732v-1360.82215v-1360.82215h-85.91732h-85.91732v1360.82215z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_be3687e9-6c39-406b-8e50-d58f4d0f61e0\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://005785d7-da56-4874-a5c9-4e103ceef062"
+    }, {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MaevaTarantini.github.io/IIIF-project/manifests/correspondance.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3187,732,115,2156"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3187.117,2887.54758h57.61154v0h57.61154v-1077.76443v-1077.76443h-57.61154h-57.61154v1077.76443z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_e674835c-7421-491c-8531-9dcf03182348\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://005785d7-da56-4874-a5c9-4e103ceef062"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Louis XVI",
+      "@type" : "oa:Tag",
+      "chars" : "Louis XVI"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Louis XVI",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Louis XVI</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/93314497",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-12-28T14:17:48",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1672237068338",
+    "dcterms:modified" : "2022-12-28T14:17:48",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MaevaTarantini.github.io/IIIF-project/manifests/correspondance.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1766,1587,172,331"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1765.53822,1918.86115h85.91732v0h85.91732v-165.68955v-165.68955h-85.91732h-85.91732v165.68955z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_980de1ab-b325-44df-b464-f1cee3f49a9c\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://005785d7-da56-4874-a5c9-4e103ceef062"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "code épistolaire",
+      "@type" : "oa:Tag",
+      "chars" : "code épistolaire"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "genre",
+      "@type" : "oa:Tag",
+      "chars" : "genre"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "amour conjugal",
+      "@type" : "oa:Tag",
+      "chars" : "amour conjugal"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "lien conjugal",
+      "@type" : "oa:Tag",
+      "chars" : "lien conjugal"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Cette correspondance est &eacute;galement une opportunit&eacute; de voir le mariage de convenance comme un succ&egrave;s dans le cas du comte et de la comtesse de Briges, qui ne cesse de montrer son d&eacute;sir et son impatience de retrouver son &eacute;pouse. Il n'est plus uniquement question de devoir conjugal, mais d'amour. Le comte sort des codes &eacute;pistolaires ordinaires pour montrer son d&eacute;sir &agrave; son &eacute;pouse.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Cette correspondance est &eacute;galement une opportunit&eacute; de voir le mariage de convenance comme un succ&egrave;s dans le cas du comte et de la comtesse de Briges, qui ne cesse de montrer son d&eacute;sir et son impatience de retrouver son &eacute;pouse. Il n'est plus uniquement question de devoir conjugal, mais d'amour. Le comte sort des codes &eacute;pistolaires ordinaires pour montrer son d&eacute;sir &agrave; son &eacute;pouse.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/93314497",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-12-28T14:20:41",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1672237241160",
+    "dcterms:modified" : "2022-12-28T14:20:41",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MaevaTarantini.github.io/IIIF-project/manifests/correspondance.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1986,908,159,1961"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1985.69423,2868.67707h79.62715v0h79.62715v-980.26677v-980.26677h-79.62715h-79.62715v980.26677z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_c7d67566-ba17-4b1c-b6b0-0774d1f6b84d\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://005785d7-da56-4874-a5c9-4e103ceef062"
+    } ]
+  } ],
+  "@id" : "https://MaevaTarantini.github.io/IIIF-project/annotations/Page3.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
