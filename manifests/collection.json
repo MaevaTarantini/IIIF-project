@@ -5,5 +5,11 @@
   },
   "type" : "Collection",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
-  "items" : [ ]
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://MaevaTarantini.github.io/IIIF-project/manifests/correspondance.json",
+    "label" : {
+      "@language" : "fr"
+    }
+  } ]
 }
