@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://MaevaTarantini.github.io/IIIF-project/annotations/Page1.json", "https://MaevaTarantini.github.io/IIIF-project/annotations/Page2.json" ],
+  "otherContent" : [ "https://MaevaTarantini.github.io/IIIF-project/annotations/Page1.json", "https://MaevaTarantini.github.io/IIIF-project/annotations/Page2.json", "https://MaevaTarantini.github.io/IIIF-project/annotations/Page3.json" ],
   "@id" : "https://MaevaTarantini.github.io/IIIF-project/annotations/collection.json",
   "label" : "All annotations loaded in MaevaTarantini/IIIF-project project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
