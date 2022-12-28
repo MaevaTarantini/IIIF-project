@@ -1,0 +1,379 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "chasse",
+      "@type" : "oa:Tag",
+      "chars" : "chasse"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "contrainte",
+      "@type" : "oa:Tag",
+      "chars" : "contrainte"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Louis XVI",
+      "@type" : "oa:Tag",
+      "chars" : "Louis XVI"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Le comte fait le r&eacute;cit de ses parties de chasse avec le roi Louis XVI, grand amateur de chasse. Il conduit ses plus proches serviteurs et un comit&eacute; restreint dans des chasses pouvant durer quelques jours.&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Le comte fait le r&eacute;cit de ses parties de chasse avec le roi Louis XVI, grand amateur de chasse. Il conduit ses plus proches serviteurs et un comit&eacute; restreint dans des chasses pouvant durer quelques jours.&nbsp;</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/93314497",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-12-28T14:03:38",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1672236218757",
+    "dcterms:modified" : "2022-12-28T14:03:38",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MaevaTarantini.github.io/IIIF-project/manifests/correspondance.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3307,1146,151,351"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3307.32996,1496.37067h75.50831v0h75.50831v-175.27576v-175.27576h-75.50831h-75.50831v175.27576z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_733e7d2b-6a4e-42c8-baec-86f0777a1bc2\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://9c08bf78-fdc3-4fd9-a22c-8a1d2444b309"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "La contrainte est &agrave; la fois mentale, puisque le comte se trouve loin de son foyer, mais aussi physique. Les longues parties de chasse engendrent des blessures et autres (comme des coups de soleil) dont chaque d&eacute;tail est racont&eacute; &agrave; son &eacute;pouse.&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>La contrainte est &agrave; la fois mentale, puisque le comte se trouve loin de son foyer, mais aussi physique. Les longues parties de chasse engendrent des blessures et autres (comme des coups de soleil) dont chaque d&eacute;tail est racont&eacute; &agrave; son &eacute;pouse.&nbsp;</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/93314497",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-12-28T14:05:28",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1672236328533",
+    "dcterms:modified" : "2022-12-28T14:05:44",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MaevaTarantini.github.io/IIIF-project/manifests/correspondance.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3527,1411,140,1168"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3526.78627,2579.32917h70.19189v0h70.19189v-583.98596v-583.98596h-70.19189h-70.19189v583.98596z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_775f6de6-9a11-41a7-89e6-c7c2e5b4ec9e\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"37.74103\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://9c08bf78-fdc3-4fd9-a22c-8a1d2444b309"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "surnoms",
+      "@type" : "oa:Tag",
+      "chars" : "surnoms"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "surnom",
+      "@type" : "oa:Tag",
+      "chars" : "surnom"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "code épistolaire",
+      "@type" : "oa:Tag",
+      "chars" : "code épistolaire"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Le terme de \"veuvage\" est employ&eacute; pour signifier le manque et la distance qui s&eacute;pare le couple depuis leur mariage. Ce terme fait partie de l'un des nombreux surnoms attribu&eacute;s &agrave; son &eacute;pouse.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Le terme de \"veuvage\" est employ&eacute; pour signifier le manque et la distance qui s&eacute;pare le couple depuis leur mariage. Ce terme fait partie de l'un des nombreux surnoms attribu&eacute;s &agrave; son &eacute;pouse.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/93314497",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-12-28T13:50:53",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1672235453632",
+    "dcterms:modified" : "2022-12-28T13:50:53",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MaevaTarantini.github.io/IIIF-project/manifests/correspondance.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=791,1959,186,455"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M790.935,2413.8328h92.90147v0h92.90147v-227.6144v-227.6144h-92.90147h-92.90147v227.6144z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_4a68eb47-4903-43ba-93db-e566b952feb2\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://9c08bf78-fdc3-4fd9-a22c-8a1d2444b309"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "tutoiement",
+      "@type" : "oa:Tag",
+      "chars" : "tutoiement"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "code épistolaire",
+      "@type" : "oa:Tag",
+      "chars" : "code épistolaire"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "genre",
+      "@type" : "oa:Tag",
+      "chars" : "genre"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "L'emploi du tutoiement est r&eacute;current dans les correspondances conjugales dans lesquelles nous rep&eacute;rons des marques d'affections. Cet usage n'est cependant pas r&eacute;pandu. L'usage varie selon le genre du destinataire. Ainsi, un homme aura davantage tendance &agrave; tutoyer sa femme, mais l'inverse n'est pas forc&eacute;ment vrai.&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>L'emploi du tutoiement est r&eacute;current dans les correspondances conjugales dans lesquelles nous rep&eacute;rons des marques d'affections. Cet usage n'est cependant pas r&eacute;pandu. L'usage varie selon le genre du destinataire. Ainsi, un homme aura davantage tendance &agrave; tutoyer sa femme, mais l'inverse n'est pas forc&eacute;ment vrai.&nbsp;</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/93314497",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-12-28T13:53:24",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1672235604610",
+    "dcterms:modified" : "2022-12-28T13:53:24",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MaevaTarantini.github.io/IIIF-project/manifests/correspondance.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1289,1906,114,189"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1289.17767,2095.84859h57.2042v0h57.2042v-94.69905v-94.69905h-57.2042h-57.2042v94.69905z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_c2b5b661-1eea-4e1e-9f3c-3db9623262f5\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://9c08bf78-fdc3-4fd9-a22c-8a1d2444b309"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "surnom",
+      "@type" : "oa:Tag",
+      "chars" : "surnom"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "surnoms",
+      "@type" : "oa:Tag",
+      "chars" : "surnoms"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "codes épistolaires",
+      "@type" : "oa:Tag",
+      "chars" : "codes épistolaires"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Il s'agit d'un autre surnom que le comte attribue &agrave; son &eacute;pouse et sans doute le plus remarqu&eacute; dans leur correspondance.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Il s'agit d'un autre surnom que le comte attribue &agrave; son &eacute;pouse et sans doute le plus remarqu&eacute; dans leur correspondance.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/93314497",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-12-28T13:54:57",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1672235697011",
+    "dcterms:modified" : "2022-12-28T13:54:57",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MaevaTarantini.github.io/IIIF-project/manifests/correspondance.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2273,2412,141,399"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2272.84315,2811.00905h70.26788v0h70.26788v-199.5123v-199.5123h-70.26788h-70.26788v199.5123z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_ed761eba-aad7-4d81-bf55-05fb6795a833\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://9c08bf78-fdc3-4fd9-a22c-8a1d2444b309"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "contrainte",
+      "@type" : "oa:Tag",
+      "chars" : "contrainte"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Les correspondances de 1780 &agrave; 1781 sont marqu&eacute;es par les contraintes de temps et de lieu. Le comte doit suivre le roi dans tout ses d&eacute;placements de plaisir et officiels et &eacute;prouve de l'inconfort &agrave; l'id&eacute;e d'&ecirc;tre &eacute;loign&eacute; de son foyer. Cette id&eacute;e peut t&eacute;moigner d'une nouvelle mani&egrave;re d'envisager la vie conjugale. Le foyer repr&eacute;sente le lieu principal de r&eacute;confort et les d&eacute;placements, bien que prestigieux, une contrainte.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Les correspondances de 1780 &agrave; 1781 sont marqu&eacute;es par les contraintes de temps et de lieu. Le comte doit suivre le roi dans tout ses d&eacute;placements de plaisir et officiels et &eacute;prouve de l'inconfort &agrave; l'id&eacute;e d'&ecirc;tre &eacute;loign&eacute; de son foyer. Cette id&eacute;e peut t&eacute;moigner d'une nouvelle mani&egrave;re d'envisager la vie conjugale. Le foyer repr&eacute;sente le lieu principal de r&eacute;confort et les d&eacute;placements, bien que prestigieux, une contrainte.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/93314497",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-12-28T13:59:31",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1672235971794",
+    "dcterms:modified" : "2022-12-28T13:59:31",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MaevaTarantini.github.io/IIIF-project/manifests/correspondance.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2308,460,160,620"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2307.92765,1080.04842h80.13437v0h80.13437v-309.88501v-309.88501h-80.13437h-80.13437v309.88501z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_10932fbd-bae8-4217-9c24-3220c09c14c2\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://9c08bf78-fdc3-4fd9-a22c-8a1d2444b309"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "devoirs conjugaux",
+      "@type" : "oa:Tag",
+      "chars" : "devoirs conjugaux"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "genre",
+      "@type" : "oa:Tag",
+      "chars" : "genre"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Leur union est marqu&eacute;e par la s&eacute;paration continuelle depuis leur mariage. Les devoirs du comte au haras du roi imposent des d&eacute;placements et un suivi du roi sur chacun de ses terrains de chasse. L'&eacute;pouse, &agrave; distance, repr&eacute;sente une consolation et une marque de stabilit&eacute; n&eacute;cessaire au comte.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Leur union est marqu&eacute;e par la s&eacute;paration continuelle depuis leur mariage. Les devoirs du comte au haras du roi imposent des d&eacute;placements et un suivi du roi sur chacun de ses terrains de chasse. L'&eacute;pouse, &agrave; distance, repr&eacute;sente une consolation et une marque de stabilit&eacute; n&eacute;cessaire au comte.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/93314497",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-12-28T13:56:50",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1672235810838",
+    "dcterms:modified" : "2022-12-28T13:56:50",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MaevaTarantini.github.io/IIIF-project/manifests/correspondance.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1905,2193,141,607"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1904.62966,2800.07201h70.26788v0h70.26788v-303.41412v-303.41412h-70.26788h-70.26788v303.41412z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_9e225a76-daf2-4d20-873e-7a44bc459d25\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://9c08bf78-fdc3-4fd9-a22c-8a1d2444b309"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "surnoms",
+      "@type" : "oa:Tag",
+      "chars" : "surnoms"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "surnom",
+      "@type" : "oa:Tag",
+      "chars" : "surnom"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "code épistolaire",
+      "@type" : "oa:Tag",
+      "chars" : "code épistolaire"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Les surnoms sont un indicateur de proximit&eacute; et r&eacute;v&eacute;lateurs d'affection dans le cadre d'une correspondance conjugale priv&eacute;e. Ils sont extr&ecirc;mement r&eacute;currents dans cette correspondance.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Les surnoms sont un indicateur de proximit&eacute; et r&eacute;v&eacute;lateurs d'affection dans le cadre d'une correspondance conjugale priv&eacute;e. Ils sont extr&ecirc;mement r&eacute;currents dans cette correspondance.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/93314497",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-12-28T13:48:56",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1672235336728",
+    "dcterms:modified" : "2022-12-28T13:48:56",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MaevaTarantini.github.io/IIIF-project/manifests/correspondance.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=814,969,143,898"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M813.77682,1867.48844h71.32558v0h71.32558v-449.08372v-449.08372h-71.32558h-71.32558v449.08372z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_07715b43-a9c8-405f-bb8d-430f0617615c\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://9c08bf78-fdc3-4fd9-a22c-8a1d2444b309"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "genre",
+      "@type" : "oa:Tag",
+      "chars" : "genre"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "L'&eacute;pouse demeure &eacute;galement seule au foyer et la correspondance retrace aussi quelles sont les occupations d'une femme de la petite noblesse en l'absence de son &eacute;poux.&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>L'&eacute;pouse demeure &eacute;galement seule au foyer et la correspondance retrace aussi quelles sont les occupations d'une femme de la petite noblesse en l'absence de son &eacute;poux.&nbsp;</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/93314497",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-12-28T14:01:45",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1672236105770",
+    "dcterms:modified" : "2022-12-28T14:01:45",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MaevaTarantini.github.io/IIIF-project/manifests/correspondance.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2687,505,173,348"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2686.97679,853.13369h86.46512v0h86.46512v-174v-174h-86.46512h-86.46512v174z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_7a2afab2-81f4-4439-b6b0-b6090e6efb67\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://9c08bf78-fdc3-4fd9-a22c-8a1d2444b309"
+    } ]
+  } ],
+  "@id" : "https://MaevaTarantini.github.io/IIIF-project/annotations/Page1.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
