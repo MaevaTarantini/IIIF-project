@@ -1,0 +1,147 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "devoir conjugal",
+      "@type" : "oa:Tag",
+      "chars" : "devoir conjugal"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "lien conjugal",
+      "@type" : "oa:Tag",
+      "chars" : "lien conjugal"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "santé",
+      "@type" : "oa:Tag",
+      "chars" : "santé"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Le comte se pr&eacute;occupe de la sant&eacute; de son &eacute;pouse durant toute la correspondance. Les maux de coeur correspondent ici &agrave; l'arriv&eacute;e potentielle d'un h&eacute;ritier, ce qui est source d'inqui&eacute;tude mais surtout de joie, puisqu'il s'agit de l'une des attentes principales du mariage au XVIIIe si&egrave;cle.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Le comte se pr&eacute;occupe de la sant&eacute; de son &eacute;pouse durant toute la correspondance. Les maux de coeur correspondent ici &agrave; l'arriv&eacute;e potentielle d'un h&eacute;ritier, ce qui est source d'inqui&eacute;tude mais surtout de joie, puisqu'il s'agit de l'une des attentes principales du mariage au XVIIIe si&egrave;cle.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/93314497",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-12-28T14:29:32",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1672237772892",
+    "dcterms:modified" : "2022-12-28T14:29:32",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MaevaTarantini.github.io/IIIF-project/manifests/correspondance.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3583,367,122,1017"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3583.39782,1384.19657h60.75663v0h60.75663v-508.5039v-508.5039h-60.75663h-60.75663v508.5039z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_aaba2338-ebd5-4174-a7ea-498d0808f00c\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://e8d5b89c-2dfd-4d37-8489-573c1d28bd52"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "code épistolaire",
+      "@type" : "oa:Tag",
+      "chars" : "code épistolaire"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "lien conjugal",
+      "@type" : "oa:Tag",
+      "chars" : "lien conjugal"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Les correspondances sont &eacute;galement marqu&eacute;es par les non-dits ou les sous-entendus, dont certains peuvent &ecirc;tre trop audacieux pour &ecirc;tre r&eacute;dig&eacute;s.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Les correspondances sont &eacute;galement marqu&eacute;es par les non-dits ou les sous-entendus, dont certains peuvent &ecirc;tre trop audacieux pour &ecirc;tre r&eacute;dig&eacute;s.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/93314497",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-12-28T14:25:47",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1672237547188",
+    "dcterms:modified" : "2022-12-28T14:25:47",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MaevaTarantini.github.io/IIIF-project/manifests/correspondance.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2061,78,134,2413"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2061.17629,2491.26677h67.0468v0h67.0468v-1206.71295v-1206.71295h-67.0468h-67.0468v1206.71295z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_3a3f306b-1c9e-4d1b-86c5-2bed3dde70e4\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://e8d5b89c-2dfd-4d37-8489-573c1d28bd52"
+    }, {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MaevaTarantini.github.io/IIIF-project/manifests/correspondance.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2269,1820,178,1067"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2268.75195,2887.54758h89.0624v0h89.0624v-533.66459v-533.66459h-89.0624h-89.0624v533.66459z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_2e82485c-0e6d-4658-861c-51886edbde36\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://e8d5b89c-2dfd-4d37-8489-573c1d28bd52"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "lien conjugal",
+      "@type" : "oa:Tag",
+      "chars" : "lien conjugal"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "La rencontre avec la belle famille est &eacute;galement une partie majeure du bon entretien du lien conjugal. M&ecirc;me &agrave; distance, le comte prenait fr&eacute;quemment des nouvelles de sa belle-famille.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>La rencontre avec la belle famille est &eacute;galement une partie majeure du bon entretien du lien conjugal. M&ecirc;me &agrave; distance, le comte prenait fr&eacute;quemment des nouvelles de sa belle-famille.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/93314497",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-12-28T14:27:03",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1672237623085",
+    "dcterms:modified" : "2022-12-28T14:27:03",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MaevaTarantini.github.io/IIIF-project/manifests/correspondance.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=973,493,153,1539"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M972.9766,2032.08424h76.48206v0h76.48206v-769.54602v-769.54602h-76.48206h-76.48206v769.54602z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_83e37fd4-678e-49bd-9be5-dabf7fdb1ae4\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://e8d5b89c-2dfd-4d37-8489-573c1d28bd52"
+    } ]
+  } ],
+  "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/93314497/f7ea0796949756ebcb36997fcc568d05.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}

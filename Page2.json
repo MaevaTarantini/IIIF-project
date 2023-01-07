@@ -1,0 +1,151 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Marie-Antoinette d'Autriche",
+      "@type" : "oa:Tag",
+      "chars" : "Marie-Antoinette d'Autriche"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Louis XVI",
+      "@type" : "oa:Tag",
+      "chars" : "Louis XVI"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Cour de France",
+      "@type" : "oa:Tag",
+      "chars" : "Cour de France"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Le jeu du Colin Mayard &eacute;tait tr&egrave;s r&eacute;pandu dans la noblesse. Le comte a eu le privil&egrave;ge d'y participer avec la Reine, ce qui indique une certaine position de prestige et sa proximit&eacute; avec le souverain.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Le jeu du Colin Mayard &eacute;tait tr&egrave;s r&eacute;pandu dans la noblesse. Le comte a eu le privil&egrave;ge d'y participer avec la Reine, ce qui indique une certaine position de prestige et sa proximit&eacute; avec le souverain.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/93314497",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-12-28T14:10:05",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1672236605145",
+    "dcterms:modified" : "2022-12-28T14:10:05",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MaevaTarantini.github.io/IIIF-project/manifests/correspondance.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1199,280,180,402"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1198.8986,681.79407h90.11076v0h90.11076v-200.80967v-200.80967h-90.11076h-90.11076v200.80967z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_d7793543-08cd-46c5-9a5a-ae2f6215e761\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://b5c917b2-0693-4caa-831e-8ed8ca198d40"
+    }, {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MaevaTarantini.github.io/IIIF-project/manifests/correspondance.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1492,2456,107,407"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1492.43994,2862.3869h53.4181v0h53.4181v-203.43058v-203.43058h-53.4181h-53.4181v203.43058z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_053b725a-aa49-4fa9-b6c5-d50ffdedb6bb\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://b5c917b2-0693-4caa-831e-8ed8ca198d40"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "code épistolaire",
+      "@type" : "oa:Tag",
+      "chars" : "code épistolaire"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "genre",
+      "@type" : "oa:Tag",
+      "chars" : "genre"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Une autre d&eacute;monstration d'amour est faite &agrave; l'occasion de la fermeture de la lettre. Ces d&eacute;monstrations font partie des codes &eacute;pistolaires ancr&eacute;s dans la noblesse de cour. Les hommes sont cependant bien plus indiqu&eacute;s pour proc&eacute;der &agrave; un &eacute;panchement sentimental que les femmes.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Une autre d&eacute;monstration d'amour est faite &agrave; l'occasion de la fermeture de la lettre. Ces d&eacute;monstrations font partie des codes &eacute;pistolaires ancr&eacute;s dans la noblesse de cour. Les hommes sont cependant bien plus indiqu&eacute;s pour proc&eacute;der &agrave; un &eacute;panchement sentimental que les femmes.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/93314497",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-12-28T14:13:27",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1672236807779",
+    "dcterms:modified" : "2022-12-28T14:13:27",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MaevaTarantini.github.io/IIIF-project/manifests/correspondance.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3442,584,180,1801"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3442.39314,2385.38222h90.11076v0h90.11076v-900.59126v-900.59126h-90.11076h-90.11076v900.59126z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_02d5a8b9-dacd-40dd-9e9f-1ea1dc6aa19e\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://b5c917b2-0693-4caa-831e-8ed8ca198d40"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Marie-Antoinette d'Autriche",
+      "@type" : "oa:Tag",
+      "chars" : "Marie-Antoinette d'Autriche"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Cour de France",
+      "@type" : "oa:Tag",
+      "chars" : "Cour de France"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Les extraits de cette correspondance relatent fr&eacute;quemment des anecdotes sur la cour de France et notamment quelques maigres passages sur la reine Marie-Antoinette, &eacute;pouse de Louis XVI. Il fait le r&eacute;cit de chaque d&eacute;tail qui pourrait int&eacute;resser son &eacute;pouse ou qu'il a lui-m&ecirc;me trouv&eacute; notable.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Les extraits de cette correspondance relatent fr&eacute;quemment des anecdotes sur la cour de France et notamment quelques maigres passages sur la reine Marie-Antoinette, &eacute;pouse de Louis XVI. Il fait le r&eacute;cit de chaque d&eacute;tail qui pourrait int&eacute;resser son &eacute;pouse ou qu'il a lui-m&ecirc;me trouv&eacute; notable.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/93314497",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-12-28T14:08:11",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1672236491625",
+    "dcterms:modified" : "2022-12-28T14:08:11",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://MaevaTarantini.github.io/IIIF-project/manifests/correspondance.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=622,652,138,1419"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M622.29953,2070.87363h69.14353v0h69.14353v-709.26521v-709.26521h-69.14353h-69.14353v709.26521z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_6efa0946-ed07-4b14-8bd4-38810b9495fe\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://b5c917b2-0693-4caa-831e-8ed8ca198d40"
+    } ]
+  } ],
+  "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/93314497/5342d98da750ca34de8d8e931a328f77.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
