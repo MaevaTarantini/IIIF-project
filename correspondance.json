@@ -1,0 +1,192 @@
+{
+	"@context": "http://iiif.io/api/presentation/2/context.json",
+	"@id": "https://MaevaTarantini.github.io/IIIF-project/manifests/correspondance.json",
+	"@type": "sc:Manifest",
+	"label": "IIIF project",
+	"service": {
+		"profile": "http://iiif.io/api/search/0/search",
+		"@id": "https://dev.gdmrdigital.com/search-api/1245635613/93314497/9acb3e5807961d7f8dad24a4bc69fc00/search",
+		"@context": "http://iiif.io/api/search/0/context.json"
+	},
+	"metadata": [ { "label": "Lieu de provenance",
+	"value":"Archives départementales des Yvelines" },
+	{ "label": "Date de prise de vue",
+  	"value": "2019-10-26" },
+	{ "label": "Nom du photographe",
+	"value": "Maëva Tarantini"},
+	{"label": "Côte",
+	"value": "E-545"},
+	{ "label": "Fonds E des Archives départementales des Yvelines",
+	"value": "documents familiaux et titres de noblesse"}, 
+	{ "label": "Date de la source",
+	"value": "1780-1781" },
+	{ "label": "Lieu d'expédition de la source",
+	"value": "Versailles" }
+	],
+
+	"description": [
+		{
+			"@value": "Ce manifeste comporte quatre photographies prises à l'occasion de mes recherches sur la correspondance conjugale du comte et de la comtesse de Briges. Ce manifeste comporte quatre photographies, qui sont des extraits de lettres pour la période de 1780 (1780-1781). Le comte fait le récit de ses journées auprès du roi et des tâches qui lui sont confiées à son épouse. Nous en apprenons davantage sur la vie quotidienne de la moyenne noblesse française présente à la cour de Versailles, sous le règne de Louis XVI, mais aussi quelles sont les normes appliquées lors des correspondances entre époux.",
+			"@language": "fr"
+		},
+		{
+			"@language": "Français"
+		}
+	],
+	"license": "https://creativecommons.org/licenses/by/3.0/",
+	"attribution": "Crédits : Archives départementales des Yvelines (2019-2020). Licence Creative Commons Attribution 4.0 International.",
+	"sequences": [
+		{
+			"@id": "http://93ffcad9-08cb-491f-a726-d71b9a4700db",
+			"@type": "sc:Sequence",
+			"label": "Normal Sequence",
+			"canvases": [
+				{
+					"@id": "http://9c08bf78-fdc3-4fd9-a22c-8a1d2444b309",
+					"@type": "sc:Canvas",
+					"label": "Page 1, correspondance comte et comtesse de Briges 1780",
+					"height": 3024,
+					"width": 4032,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://95124e38-9a80-453b-8b86-351afde93965",
+							"@type": "oa:Annotation",
+							"motivation": "sc:commenting",
+							"resource": {
+								"@id": "https://maevatarantini.github.io/IIIF-project/images/IMG_3464/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://maevatarantini.github.io/IIIF-project/images/IMG_3464",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 3024,
+								"width": 4032
+							},
+							"on": "http://9c08bf78-fdc3-4fd9-a22c-8a1d2444b309"
+						}
+					],
+					"otherContent": [
+						{
+							"@id": "https://maevatarantini.github.io/IIIF-project/annotations/Page1.json",
+							"@type": "sc:AnnotationList",
+							"label": "My fantastic annotations"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://b5c917b2-0693-4caa-831e-8ed8ca198d40",
+					"@type": "sc:Canvas",
+					"label": "Page 2, correspondance comte et comtesse de Briges 1780",
+					"height": 3024,
+					"width": 4032,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://a43678ce-63ac-4f45-ac4c-918d2ac481bb",
+							"@type": "oa:Annotation",
+							"motivation": "sc:commenting",
+							"resource": {
+								"@id": "https://maevatarantini.github.io/IIIF-project/images/IMG_3465Copie/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://maevatarantini.github.io/IIIF-project/images/IMG_3465Copie",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 3024,
+								"width": 4032
+							},
+							"on": "http://b5c917b2-0693-4caa-831e-8ed8ca198d40"
+						}
+					],
+					"otherContent": [
+						{
+							"@id": "https://maevatarantini.github.io/IIIF-project/annotations/Page2.json",
+							"@type": "sc:AnnotationList",
+							"label": "My fantastic annotations"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://005785d7-da56-4874-a5c9-4e103ceef062",
+					"@type": "sc:Canvas",
+					"label": "Page 3, correspondance comte et comtesse de Briges 1780",
+					"height": 3024,
+					"width": 4032,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://04404872-efe4-4eee-8272-909401e4612d",
+							"@type": "oa:Annotation",
+							"motivation": "sc:commenting",
+							"resource": {
+								"@id": "https://maevatarantini.github.io/IIIF-project/images/IMG_3466/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://maevatarantini.github.io/IIIF-project/images/IMG_3466",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 3024,
+								"width": 4032
+							},
+							"on": "http://005785d7-da56-4874-a5c9-4e103ceef062"
+						}
+					],
+					"otherContent": [
+						{
+							"@id": "https://maevatarantini.github.io/IIIF-project/annotations/Page3.json",
+							"@type": "sc:AnnotationList",
+							"label": "My fantastic annotations"
+						}
+					],
+					"related": ""
+				},
+				{
+					"@id": "http://e8d5b89c-2dfd-4d37-8489-573c1d28bd52",
+					"@type": "sc:Canvas",
+					"label": "Page 4, correspondance comte et comtesse de Briges 1780",
+					"height": 3024,
+					"width": 4032,
+					"images": [
+						{
+							"@context": "http://iiif.io/api/presentation/2/context.json",
+							"@id": "http://bfcb014c-3d41-4e56-98f1-53e4940856e8",
+							"@type": "oa:Annotation",
+							"motivation": "sc:commenting",
+							"resource": {
+								"@id": "https://maevatarantini.github.io/IIIF-project/images/IMG_3467Copie/full/full/0/default.jpg",
+								"@type": "dctypes:Image",
+								"format": "image/jpeg",
+								"service": {
+									"@context": "http://iiif.io/api/image/2/context.json",
+									"@id": "https://maevatarantini.github.io/IIIF-project/images/IMG_3467Copie",
+									"profile": "http://iiif.io/api/image/2/level0.json"
+								},
+								"height": 3024,
+								"width": 4032
+							},
+							"on": "http://e8d5b89c-2dfd-4d37-8489-573c1d28bd52"
+						}
+					],
+					"otherContent": [
+						{
+							"@id": "https://maevatarantini.github.io/IIIF-project/annotations/Page4.json",
+							"@type": "sc:AnnotationList",
+							"label": "My fantastic annotations"
+						}
+					],
+					"related": ""
+				}
+			]
+		}
+	],
+	"structures": []
+}
